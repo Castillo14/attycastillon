@@ -30,7 +30,7 @@
                                 <img src="assets/img/1.jpg" alt="">
                                 <div class="trend-top-cap">
                                     <span>Appetizers</span>
-                                    <h2><a href="details.html">Welcome To The Best Model Winner<br> Contest At Look of the year</a></h2>
+                                    <h2><a href="details.php">OFW sa Kuwait</a></h2>
                                 </div>
                             </div>
                         </div>
@@ -44,7 +44,7 @@
                                     </div>
                                     <div class="trend-bottom-cap">
                                         <span class="color1">Lifestyple</span>
-                                        <h4><a href="details.html">Get the Illusion of Fuller Lashes by “Mascng.”</a></h4>
+                                        <h4><a href="details.php">Get the Illusion of Fuller Lashes by “Mascng.”</a></h4>
                                     </div>
                                 </div>
                                 </div>
