@@ -40,7 +40,7 @@
                                 <div class="col-lg-4">
                                 <div class="single-bottom mb-35">
                                     <div class="trend-bottom-img mb-30">
-                                        <img src="assets/img/trending/trending_bottom1.jpg" alt="">
+                                        <img src="assets/img/news_banner.png" alt="">
                                     </div>
                                     <div class="trend-bottom-cap">
                                         <span class="color1">Lifestyple</span>
@@ -51,22 +51,22 @@
                                 <div class="col-lg-4">
                                     <div class="single-bottom mb-35">
                                         <div class="trend-bottom-img mb-30">
-                                            <img src="assets/img/trending/trending_bottom2.jpg" alt="">
+                                            <img src="assets/img/news_banner.png" alt="">
                                         </div>
                                         <div class="trend-bottom-cap">
                                             <span class="color2">Sports</span>
-                                            <h4><h4><a href="details.html">Get the Illusion of Fuller Lashes by “Mascng.”</a></h4></h4>
+                                            <h4><h4><a href="details.php">Get the Illusion of Fuller Lashes by “Mascng.”</a></h4></h4>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-4">
                                     <div class="single-bottom mb-35">
                                         <div class="trend-bottom-img mb-30">
-                                            <img src="assets/img/trending/trending_bottom3.jpg" alt="">
+                                            <img src="assets/img/news_banner.png" alt="">
                                         </div>
                                         <div class="trend-bottom-cap">
                                             <span class="color3">Travels</span>
-                                            <h4><a href="details.html"> Welcome To The Best Model Winner Contest</a></h4>
+                                            <h4><a href="details.php"> Welcome To The Best Model Winner Contest</a></h4>
                                         </div>
                                     </div>
                                 </div>
@@ -143,7 +143,7 @@
                         <div class="weekly-news-active dot-style d-flex dot-style">
                             <div class="weekly-single">
                                 <div class="weekly-img">
-                                    <img src="assets/img/news/weeklyNews2.jpg" alt="">
+                                    <img src="assets/img/news_banner.png" alt="">
                                 </div>
                                 <div class="weekly-caption">
                                     <span class="color1">Strike</span>
@@ -152,7 +152,7 @@
                             </div> 
                             <div class="weekly-single active">
                                 <div class="weekly-img">
-                                        <img src="assets/img/news/weeklyNews1.jpg" alt="">
+                                        <img src="assets/img/news_banner.png" alt="">
                                 </div>
                                 <div class="weekly-caption">
                                     <span class="color1">Strike</span>
@@ -161,7 +161,7 @@
                             </div>
                             <div class="weekly-single">
                                 <div class="weekly-img">
-                                        <img src="assets/img/news/weeklyNews3.jpg" alt="">
+                                        <img src="assets/img/news_banner.png" alt="">
                                 </div>
                                 <div class="weekly-caption">
                                     <span class="color1">Strike</span>
@@ -170,7 +170,7 @@
                             </div>
                             <div class="weekly-single">
                                 <div class="weekly-img">
-                                    <img src="assets/img/news/weeklyNews1.jpg" alt="">
+                                    <img src="assets/img/news_banner.png" alt="">
                                 </div>
                                 <div class="weekly-caption">
                                     <span class="color1">Strike</span>
@@ -599,7 +599,7 @@
                         <div class="weekly2-news-active dot-style d-flex dot-style">
                             <div class="weekly2-single">
                                 <div class="weekly2-img">
-                                    <img src="assets/img/news/weekly2News1.jpg" alt="">
+                                    <img src="assets/img/news_banner.png" alt="">
                                 </div>
                                 <div class="weekly2-caption">
                                     <span class="color1">Corporate</span>
@@ -609,7 +609,7 @@
                             </div> 
                             <div class="weekly2-single">
                                 <div class="weekly2-img">
-                                    <img src="assets/img/news/weekly2News2.jpg" alt="">
+                                    <img src="assets/img/news_banner.png" alt="">
                                 </div>
                                 <div class="weekly2-caption">
                                     <span class="color1">Event night</span>
@@ -619,7 +619,7 @@
                             </div> 
                             <div class="weekly2-single">
                                 <div class="weekly2-img">
-                                    <img src="assets/img/news/weekly2News3.jpg" alt="">
+                                    <img src="assets/img/news_banner.png" alt="">
                                 </div>
                                 <div class="weekly2-caption">
                                     <span class="color1">Corporate</span>
@@ -629,7 +629,7 @@
                             </div>
                              <div class="weekly2-single">
                                 <div class="weekly2-img">
-                                    <img src="assets/img/news/weekly2News4.jpg" alt="">
+                                    <img src="assets/img/news_banner.png" alt="">
                                 </div>
                                 <div class="weekly2-caption">
                                     <span class="color1">Event time</span>
@@ -639,7 +639,7 @@
                             </div> 
                              <div class="weekly2-single">
                                 <div class="weekly2-img">
-                                    <img src="assets/img/news/weekly2News4.jpg" alt="">
+                                    <img src="assets/img/news_banner.png" alt="">
                                 </div>
                                 <div class="weekly2-caption">
                                     <span class="color1">Corporate</span>
@@ -704,25 +704,25 @@
                             <div class="single-video">
                                 <iframe  src="https://www.youtube.com/embed/rIz00N40bag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <div class="video-intro">
-                                    <h4>Welcotme To The Best Model Winner Contest</h4>
+                                    <h4>Welcome To The Best Model Winner Contest</h4>
                                 </div>
                             </div>
                             <div class="single-video">
                                 <iframe src="https://www.youtube.com/embed/CONfhrASy44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <div class="video-intro">
-                                    <h4>Welcotme To The Best Model Winner Contest</h4>
+                                    <h4>Welcome To The Best Model Winner Contest</h4>
                                 </div>
                             </div>
                             <div class="single-video">
                                 <iframe src="https://www.youtube.com/embed/lq6fL2ROWf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <div class="video-intro">
-                                    <h4>Welcotme To The Best Model Winner Contest</h4>
+                                    <h4>Welcome To The Best Model Winner Contest</h4>
                                 </div>
                             </div>
                             <div class="single-video">
                                 <iframe src="https://www.youtube.com/embed/0VxlQlacWV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <div class="video-intro">
-                                    <h4>Welcotme To The Best Model Winner Contest</h4>
+                                    <h4>Welcome To The Best Model Winner Contest</h4>
                                 </div>
                             </div>
                         </div>
@@ -731,86 +731,7 @@
             </div>
         </div>
     </div> 
-    <!-- End Start youtube -->
-    <!--  Recent Articles start -->
-    <div class="recent-articles">
-        <div class="container">
-           <div class="recent-wrapper">
-                <!-- section Tittle -->
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="section-tittle mb-30">
-                            <h3>Recent Articles</h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12">
-                        <div class="recent-active dot-style d-flex dot-style">
-                            <div class="single-recent mb-100">
-                                <div class="what-img">
-                                    <img src="assets/img/news/recent1.jpg" alt="">
-                                </div>
-                                <div class="what-cap">
-                                    <span class="color1">Night party</span>
-                                    <h4><a href="#">Welcome To The Best Model  Winner Contest</a></h4>
-                                </div>
-                            </div>
-                            <div class="single-recent mb-100">
-                                <div class="what-img">
-                                    <img src="assets/img/news/recent2.jpg" alt="">
-                                </div>
-                                <div class="what-cap">
-                                    <span class="color1">Night party</span>
-                                    <h4><a href="#">Welcome To The Best Model  Winner Contest</a></h4>
-                                </div>
-                            </div>
-                            <div class="single-recent mb-100">
-                                <div class="what-img">
-                                    <img src="assets/img/news/recent3.jpg" alt="">
-                                </div>
-                                <div class="what-cap">
-                                    <span class="color1">Night party</span>
-                                    <h4><a href="#">Welcome To The Best Model  Winner Contest</a></h4>
-                                </div>
-                            </div>
-                            <div class="single-recent mb-100">
-                                <div class="what-img">
-                                    <img src="assets/img/news/recent2.jpg" alt="">
-                                </div>
-                                <div class="what-cap">
-                                    <span class="color1">Night party</span>
-                                    <h4><a href="#">Welcome To The Best Model  Winner Contest</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-           </div>
-        </div>
-    </div>           
-    <!--Recent Articles End -->
-    <!--Start pagination -->
-    <div class="pagination-area pb-45 text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="single-wrap d-flex justify-content-center">
-                        <nav aria-label="Page navigation example">
-                            <ul class="pagination justify-content-start">
-                              <li class="page-item"><a class="page-link" href="#"><span class="flaticon-arrow roted"></span></a></li>
-                                <li class="page-item active"><a class="page-link" href="#">01</a></li>
-                                <li class="page-item"><a class="page-link" href="#">02</a></li>
-                                <li class="page-item"><a class="page-link" href="#">03</a></li>
-                              <li class="page-item"><a class="page-link" href="#"><span class="flaticon-arrow right-arrow"></span></a></li>
-                            </ul>
-                          </nav>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End pagination  -->
+    
     </main>
     
   <?php include 'footer.php';?>
