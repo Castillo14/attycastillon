@@ -11,11 +11,11 @@
                                 <strong>Trending now</strong>
                                 <!-- <p>Rem ipsum dolor sit amet, consectetur adipisicing elit.</p> -->
                                 <div class="trending-animated">
-                                    <ul id="js-news" class="js-hidden">
+                                    <!-- <ul id="js-news" class="js-hidden">
                                         <li class="news-item">Bangladesh dolor sit amet, consectetur adipisicing elit.</li>
                                         <li class="news-item">Spondon IT sit amet, consectetur.......</li>
                                         <li class="news-item">Rem ipsum dolor sit amet, consectetur adipisicing elit.</li>
-                                    </ul>
+                                    </ul> -->
                                 </div>
                                 
                             </div>
@@ -26,23 +26,22 @@
                             <!-- Trending Tittle -->
                                     <div class="about-right mb-90">
                                         <div class="about-img">
-                                            <img src="assets/img/post/about_heor.jpg" alt="">
+                                            <img src="assets/img/logo.jpg" alt="">
                                         </div>
                                         <div class="section-tittle mb-30 pt-30">
                                             <h3>About Us</h3>
                                         </div>
                                         <div class="about-prea">
-                                            <p class="about-pera1 mb-25">Moms are like…buttons? Moms are like glue. Moms are like pizza crusts. Moms are the ones who make sure things happen—from birth to school lunch.</p>
-                                            <p class="about-pera1 mb-25">Moms are like…buttons? Moms are like glue. Moms are like pizza crusts. Moms are the ones who make sure things happen—from birth to school lunch.</p>
+                                            <!-- <p class="about-pera1 mb-25">Moms are like…buttons? Moms are like glue. Moms are like pizza crusts. Moms are the ones who make sure things happen—from birth to school lunch.</p>
+                                            <p class="about-pera1 mb-25">Moms are like…buttons? Moms are like glue. Moms are like pizza crusts. Moms are the ones who make sure things happen—from birth to school lunch.</p> -->
                                             <p class="about-pera1 mb-25">
-                                                My hero when I was a kid was my mom. Same for everyone I knew. Moms are untouchable. They’re elegant, smart, beautiful, kind…everything we want to be. At 29 years old, my favorite compliment is being told that I look like my mom. Seeing myself in her image, like this daughter up top, makes me so proud of how far I’ve come, and so thankful for where I come from.
-                                                the refractor telescope uses a convex lens to focus the light on the eyepiece.
-                                                The reflector telescope has a concave lens which means it bends in. It uses mirrors to focus the image that you eventually see.
-                                                Collimation is a term for how well tuned the telescope is to give you a good clear image of what you are looking at. You want your telescope to have good collimation so you are not getting a false image of the celestial body.
-                                                Aperture is a fancy word for how big the lens of your telescope is. But it’s an important word because the aperture of the lens is the key to how powerful your telescope is. Magnification has nothing to do with it, its all in the aperture.
-                                                Focuser is the housing that keeps the eyepiece of the telescope, or what you will look through, in place. The focuser has to be stable and in good repair for you to have an image you can rely on.
-                                                Mount and Wedge. Both of these terms refer to the tripod your telescope sits on. The mount is the actual tripod and the wedge is the device that lets you attach the telescope to the mount.
-                                                Moms are like…buttons? Moms are like glue. Moms are like pizza crusts. Moms are the ones who make sure things happen—from birth to school lunch.</p>
+                                               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin convallis blandit mattis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque nec orci luctus, tristique leo non, accumsan justo. Suspendisse potenti. Nulla facilisi. Nulla placerat, enim at vehicula congue, sem est volutpat nibh, in tempor enim enim vel nibh. Praesent vehicula aliquam lacus, et semper mauris suscipit venenatis.
+
+                                                Pellentesque ut dignissim lectus, non varius ex. In eu metus nisl. Nullam volutpat ante sed augue faucibus tempor. Proin dictum lorem laoreet molestie accumsan. Vivamus imperdiet magna pharetra, maximus diam ac, luctus ex. Aenean ut mauris sagittis, dictum est ut, sodales leo. Pellentesque eget metus rhoncus, scelerisque lacus id, dictum velit. In non ipsum venenatis, varius odio sed, cursus tortor. Morbi in malesuada erat. Etiam et sem lacus. Nulla eget ante dictum, vehicula velit a, interdum augue.
+
+                                                Nam ultricies vitae mauris malesuada blandit. Quisque vel augue ipsum. Sed sit amet sollicitudin odio, sed sodales nulla. In eu felis ex. Nam justo urna, consectetur vel ultrices sed, porttitor in nisl. Fusce eget arcu arcu. Mauris vehicula iaculis elit quis facilisis. Vivamus sit amet rhoncus risus.
+
+                                                Praesent commodo hendrerit congue. Nam varius velit et viverra tristique. Cras quis pretium lectus. Mauris a erat ligula. Vestibulum vel arcu ut turpis ornare eleifend. Mauris ac maximus nibh, vel feugiat orci. Suspendisse vitae ornare libero. Sed venenatis consectetur suscipit. Sed eleifend aliquam tincidunt. Integer id ligula nec urna tempus consequat sit amet sit amet lacus. Suspendisse eu commodo erat, ac vehicula augue. Aenean convallis, urna hendrerit laoreet elementum, ante lacus venenatis justo, sit amet iaculis lectus magna vel libero. Duis vulputate rutrum neque, sed egestas turpis ornare eu. Vivamus vitae sem massa. Morbi magna velit, venenatis et vestibulum aliquet, fringilla eget justo. Curabitur ultricies leo quis leo pharetra maximus. </p>
                                         </div>
                                     </div>
                         </div>
