@@ -101,6 +101,7 @@
                                             <li><a href="about.php">About</a></li>
                                             <!-- <li><a href="latest_news.php">Latest News</a></li> -->
                                             <li><a href="contact.php">Contact</a></li>
+                                            <li><a href="https://us21.list-manage.com/contact-form?u=e1bd80bbceff51785af261086&form_id=c7c989dccd1bb5c86bba5b2dd9c0bddd">Message us</li>
                                            <!--  <li><a href="#">Pages</a>
                                                 <ul class="submenu">
                                                     <li><a href="elements.html">Element</a></li>
