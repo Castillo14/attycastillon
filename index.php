@@ -44,7 +44,7 @@
                                     </div>
                                     <div class="trend-bottom-cap">
                                         <span class="color1">Lifestyple</span>
-                                        <h4><a href="details.php">Get the Illusion of Fuller Lashes by “Mascng.”</a></h4>
+                                        <!-- <h4><a href="details.php">Get the Illusion of Fuller Lashes by “Mascng.”</a></h4> -->
                                     </div>
                                 </div>
                                 </div>
@@ -55,7 +55,7 @@
                                         </div>
                                         <div class="trend-bottom-cap">
                                             <span class="color2">Sports</span>
-                                            <h4><h4><a href="details.php">Get the Illusion of Fuller Lashes by “Mascng.”</a></h4></h4>
+                                            <!-- <h4><h4><a href="details.php">Get the Illusion of Fuller Lashes by “Mascng.”</a></h4></h4> -->
                                         </div>
                                     </div>
                                 </div>
@@ -66,7 +66,7 @@
                                         </div>
                                         <div class="trend-bottom-cap">
                                             <span class="color3">Travels</span>
-                                            <h4><a href="details.php"> Welcome To The Best Model Winner Contest</a></h4>
+                                            <!-- <h4><a href="details.php"> Welcome To The Best Model Winner Contest</a></h4> -->
                                         </div>
                                     </div>
                                 </div>
@@ -77,7 +77,7 @@
                     <div class="col-lg-4">
                         <div class="trand-right-single d-flex">
                             <div class="trand-right-img">
-                                <img src="assets/img/trending/right1.jpg" alt="">
+                                <img src="assets/img/news_banner.png" alt="" style="height:130px;">
                             </div>
                             <div class="trand-right-cap">
                                 <span class="color1">Concert</span>
@@ -86,7 +86,7 @@
                         </div>
                         <div class="trand-right-single d-flex">
                             <div class="trand-right-img">
-                                <img src="assets/img/trending/right2.jpg" alt="">
+                                <img src="assets/img/news_banner.png" alt="" style="height:130px;">
                             </div>
                             <div class="trand-right-cap">
                                 <span class="color3">sea beach</span>
@@ -95,7 +95,7 @@
                         </div>
                         <div class="trand-right-single d-flex">
                             <div class="trand-right-img">
-                                <img src="assets/img/trending/right3.jpg" alt="">
+                                <img src="assets/img/news_banner.png" alt="" style="height:130px;">
                             </div>
                             <div class="trand-right-cap">
                                 <span class="color2">Bike Show</span>
@@ -104,7 +104,7 @@
                         </div> 
                         <div class="trand-right-single d-flex">
                             <div class="trand-right-img">
-                                <img src="assets/img/trending/right4.jpg" alt="">
+                                <img src="assets/img/news_banner.png" alt="" style="height:130px;">
                             </div>
                             <div class="trand-right-cap">
                                 <span class="color4">See beach</span>
@@ -113,10 +113,10 @@
                         </div>
                         <div class="trand-right-single d-flex">
                             <div class="trand-right-img">
-                                <img src="assets/img/trending/right5.jpg" alt="">
+                                <img src="assets/img/news_banner.png" alt="" style="height:130px;">
                             </div>
                             <div class="trand-right-cap">
-                                <span class="color1">Skeping</span>
+                                <span class="color1">OFW</span>
                                 <!-- <h4><a href="details.html">Welcome To The Best Model Winner Contest</a></h4> -->
                             </div>
                         </div>
@@ -696,35 +696,35 @@
                     <div class="col-lg-6">
                         <div class="testmonial-nav text-center">
                             <div class="single-video">
-                                <iframe  src="https://www.youtube.com/embed/CicQIuG8hBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe  src="https://www.youtube.com/embed/JrFGokBxt-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <div class="video-intro">
-                                    <!-- <h4>Welcome To Solusyon ni Castillon</h4> -->
+                                    <h4>BANGUGOT SA KUWAIT</h4>
                                 </div>
                             </div>
                             <div class="single-video">
-                                <iframe  src="https://www.youtube.com/embed/rIz00N40bag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe  src="https://www.youtube.com/embed/DX0SD8EDHYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <div class="video-intro">
-                                    <!-- <h4>Welcome To The Best Model Winner Contest</h4> -->
+                                    <h4>CONTRACT SUBSTITUTION</h4>
                                 </div>
                             </div>
                             <div class="single-video">
-                                <iframe src="https://www.youtube.com/embed/CONfhrASy44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe src="https://www.youtube.com/embed/viCtJRZ8l3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <div class="video-intro">
-                                    <!-- <h4>Welcome To The Best Model Winner Contest</h4> -->
+                                    <h4>NALUGMOK SA UTANG ANG BINUDOL NATING KABABAYAN!</h4>
                                 </div>
                             </div>
-                            <div class="single-video">
+                            <!-- <div class="single-video">
                                 <iframe src="https://www.youtube.com/embed/lq6fL2ROWf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <div class="video-intro">
-                                    <!-- <h4>Welcome To The Best Model Winner Contest</h4> -->
+                                    <h4>Welcome To The Best Model Winner Contest</h4>
                                 </div>
                             </div>
                             <div class="single-video">
                                 <iframe src="https://www.youtube.com/embed/0VxlQlacWV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <div class="video-intro">
-                                    <!-- <h4>Welcome To The Best Model Winner Contest</h4> -->
+                                    <h4>Welcome To The Best Model Winner Contest</h4>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
